@@ -33,6 +33,6 @@ A Python-based automation tool that organizes and extracts archive files (`.zip`
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Roshan Jeffrin R
